@@ -21,7 +21,7 @@ The clerk can use this program to get the arrangement easily.
 ### Usage
 
 ```sh
-    $ git clone
+    $ git clone https://github.com/KellyBri/Activity-selection-problem.git
     $ cd ./ActivitySelectionProblem
     $ g++ -c ActivitySelectionProblem.cpp
     $ ./ActivitySelectionProblem
